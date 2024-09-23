@@ -3,8 +3,8 @@
 A collection of awesome resources for learning sBPF Assembly (Solana eBPF). PRs welcome!
 
 ### Tooling:
-- [sbpf](https://github.com/deanmlittle/sbpf) by @deanmlittle - a tool to quickly bootstrap, build, deploy and test sbpf assembly programs
-- [ezbpf](https://github.com/deanmlittle/ezbpf) by @deanmlittle - a simply sBPF disassembler library with a CLI and WASM bindings
+- [sbpf](https://github.com/deanmlittle/sbpf) - a tool to quickly bootstrap, build, deploy and test sbpf assembly programs
+- [ezbpf](https://github.com/deanmlittle/ezbpf) - a simple sBPF disassembler library with a CLI and WASM bindings
 
 ### Documentation
 - [bpf.wtf opcodes](https://wayback-api.archive.org/web/20231004134038/https://bpf.wtf/sol-0x03-isa/) - a waybackmachine archive of Firedancer's [@riptl](https://github.com/riptl) old website explaining opcodes.
