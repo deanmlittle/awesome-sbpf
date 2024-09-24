@@ -12,7 +12,7 @@ A collection of awesome resources for learning sBPF Assembly (Solana eBPF). PRs 
 - [bpf.wtf syscalls](https://web.archive.org/web/20231004144333/https://bpf.wtf/sol-0x04-syscalls/) - waybackmachine archive of [@riptl](https://github.com/riptl) old website explaining syscall APIs.
 - [rbpf opcodes](https://github.com/solana-labs/rbpf/blob/main/src/ebpf.rs) - the opcodes of the ebpf library used in agave with inline documentation in code comments.
 - [firedancer rbpf opcodes](https://github.com/firedancer-io/firedancer/blob/main/src/ballet/sbpf/fd_sbpf_opcodes.h) - the opcodes of sbpf used in firedancer's vm
-- [gnu lld](https://ftp.gnu.org/old-gnu/Manuals/gas-2.9.1/html_chapter/as_7.html) - glossary of assembly directives used by lld, the default linker used by LLVM
+- [assembly directives](https://ftp.gnu.org/old-gnu/Manuals/gas-2.9.1/html_chapter/as_7.html) - glossary of assembly directives used by lld, the default linker used by LLVM
 
 ### Rust Resources
 - [sbpf-asm-macros](https://github.com/deanmlittle/sbpf-asm-macros) - some useful macros for inline ASM in rust to save CUs
