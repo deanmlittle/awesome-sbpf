@@ -5,6 +5,7 @@ A collection of awesome resources for learning sBPF Assembly (Solana eBPF). PRs 
 ### Tooling:
 - [sbpf](https://github.com/deanmlittle/sbpf) - a tool to quickly bootstrap, build, deploy and test sbpf assembly programs
 - [ezbpf](https://github.com/deanmlittle/ezbpf) - a simple sBPF disassembler library with a CLI and WASM bindings
+- [vscode-sbpf-asm](https://marketplace.visualstudio.com/items?itemName=deanmlittle.vscode-sbpf-asm) - VSCode plugin for sBPF ASM syntax and autocomplete
 
 ### Documentation
 - [bpf.wtf opcodes](https://wayback-api.archive.org/web/20231004134038/https://bpf.wtf/sol-0x03-isa/) - waybackmachine archive of [@riptl](https://github.com/riptl) old website explaining opcodes.
